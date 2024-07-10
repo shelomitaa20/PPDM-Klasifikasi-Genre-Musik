@@ -18,8 +18,8 @@ Berikut adalah struktur file dalam proyek ini:
 - `main.py`: File untuk website yang menggunakan Streamlit dan Bootstrap.
 - `genres_original.zip`: Dataset yang digunakan dalam proyek ini.
 
-## Demo Website
-Anda dapat mengakses demo website dan penjelasan lebih lanjut melalui [link berikut](#).
+## Video Presentasi (Youtube)
+Anda dapat mengakses video presentasi sistem dan demo web melalui [link youtube berikut](https://youtu.be/Foto2vCx8Wo).
 
 ## Dataset
-Dataset yang digunakan dalam proyek ini dapat diunduh dari [Google Drive](https://drive.google.com/file/d/1lZK_7HaXXFyorv-wbvS9NyaJH8AK3Vi6/view?usp=drivesdk). Dataset ini terdiri dari beberapa file audio yang telah diklasifikasikan ke dalam tiga genre: classical, pop, dan jazz.
+Dataset yang digunakan dalam proyek ini dapat diunduh dari [Google Drive](https://drive.google.com/file/d/1NmQUvZO6FXOuuuLLhdTVeD5SdUSKTGRS/view?usp=sharing). Dataset ini terdiri dari beberapa file audio yang telah diklasifikasikan ke dalam tiga genre: classical, pop, dan jazz.
